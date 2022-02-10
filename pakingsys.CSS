@@ -1,0 +1,56 @@
+    #map {
+        height: 100%; }
+    .custom-map-control-button{
+        z-index: 0;
+        position:fixed;
+        top: 72px;
+        left: 250px;
+        background-color: red;
+        color: white;
+        border-radius: 25px;
+    }
+    .gm-style .gm-style-iw-t::after {
+        background-color:#f0f8ff00;
+
+        width:0px
+
+    }
+    .gm-style .gm-style-iw-c{
+        transform: translate3d(-0);
+    background-color:#ffffff00;
+    border-radius: 0px;
+    padding: 0px;
+    box-shadow: 0px;
+
+    }
+    Button.gm-ui-hover-effect{
+        top: 7px;
+    }
+   
+    .d-flex{
+        padding-left: 50px;
+        padding-right: 98px;
+    }
+    .navbar-light .navbar-nav .nav-link  {
+    color: #0076b9;
+    }
+    .navbar-light .navbar-nav .nav-link.active{
+        color: #0076b9;
+        
+    }
+    .form-control   {
+        padding-right: 202px;
+    }
+
+    .navbar-brand{
+        font-weight: bold;
+        font-size: 26px;
+        padding-top: 15px;
+        padding-left: 15px;
+        
+
+    }   
+    .bg-light{
+        background-color: #5e8bb4;
+
+    }
